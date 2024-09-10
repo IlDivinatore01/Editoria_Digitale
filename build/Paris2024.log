@@ -1,0 +1,1095 @@
+This is LuaHBTeX, Version 1.18.1 (MiKTeX 24.4) (format=lualatex 2024.9.10)  10 SEP 2024 10:16
+ restricted system commands enabled.
+**Paris2024.tex
+(./Paris2024.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-05-27>
+Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "C:/Users/simom/AppData/Local/MiKTeX
+/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-res
+olved path "C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/f
+ontloader-2023-12-28.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "C:/Users/simom/AppData/Local/MiKTeX
+/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'. (C:/Users/simom/AppData
+/Local/Programs/MiKTeX/tex/latex/base/book.cls
+Document Class: book 2024/02/08 v1.4n Standard LaTeX document class
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/base/bk12.clo
+File: bk12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from C:/Users/simom/AppData/Local/M
+iKTeX/luatex-cache/generic/names/luaotfload-names.luc.gz)
+\c@part=\count192
+\c@chapter=\count193
+\c@section=\count194
+\c@subsection=\count195
+\c@subsubsection=\count196
+\c@paragraph=\count197
+\c@subparagraph=\count198
+\c@figure=\count199
+\c@table=\count266
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen140
+)
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 106.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/luatex.def
+File: luatex.def 2024/04/13 v1.2e Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-05-23 v7.01i Hypertext links for LaTeX
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/generic/kvdefinekeys/kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/generic/pdfescape/pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/generic/pdftexcmds/pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks20
+))
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/generic/gettitlestring/gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count267
+)
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count268
+)
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen143
+\Hy@linkcounter=\count269
+\Hy@pagecounter=\count270
+ (C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-05-23 v7.01i Hyperref: PDFDocEncoding definition (HO)
+) (C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count271
+ (C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-05-23 v7.01i Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count272
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen144
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count273
+\Field@Width=\dimen145
+\Fld@charsize=\dimen146
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count274
+\c@Item=\count275
+\c@Hfootnote=\count276
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2024-05-23 v7.01i Hyperref driver for luaTeX
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count277
+\c@bookmark@seq@number=\count278
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/generic/uniquecounter/uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip51
+)
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen147
+\lightrulewidth=\dimen148
+\cmidrulewidth=\dimen149
+\belowrulesep=\dimen150
+\belowbottomsep=\dimen151
+\aboverulesep=\dimen152
+\abovetopsep=\dimen153
+\cmidrulesep=\dimen154
+\cmidrulekern=\dimen155
+\defaultaddspace=\dimen156
+\@cmidla=\count279
+\@cmidlb=\count280
+\@aboverulesep=\dimen157
+\@belowrulesep=\dimen158
+\@thisruleclass=\count281
+\@lastruleclass=\count282
+\@thisrulewidth=\dimen159
+)
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks21
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/biblatex.st
+y
+Package: biblatex 2024/03/21 v3.20 programmable bibliographies (PK/MW)
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count283
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\c@tabx@nest=\count284
+\c@listtotal=\count285
+\c@listcount=\count286
+\c@liststart=\count287
+\c@liststop=\count288
+\c@citecount=\count289
+\c@citetotal=\count290
+\c@multicitecount=\count291
+\c@multicitetotal=\count292
+\c@instcount=\count293
+\c@maxnames=\count294
+\c@minnames=\count295
+\c@maxitems=\count296
+\c@minitems=\count297
+\c@citecounter=\count298
+\c@maxcitecounter=\count299
+\c@savedcitecounter=\count300
+\c@uniquelist=\count301
+\c@uniquename=\count302
+\c@refsection=\count303
+\c@refsegment=\count304
+\c@maxextratitle=\count305
+\c@maxextratitleyear=\count306
+\c@maxextraname=\count307
+\c@maxextradate=\count308
+\c@maxextraalpha=\count309
+\c@abbrvpenalty=\count310
+\c@highnamepenalty=\count311
+\c@lownamepenalty=\count312
+\c@maxparens=\count313
+\c@parenlevel=\count314
+\blx@tempcnta=\count315
+\blx@tempcntb=\count316
+\blx@tempcntc=\count317
+\c@blx@maxsection=\count318
+\blx@maxsegment@0=\count319
+\blx@notetype=\count320
+\blx@parenlevel@text=\count321
+\blx@parenlevel@foot=\count322
+\blx@sectionciteorder@0=\count323
+\blx@sectionciteorderinternal@0=\count324
+\blx@entrysetcounter=\count325
+\blx@biblioinstance=\count326
+\labelnumberwidth=\skip52
+\labelalphawidth=\skip53
+\biblabelsep=\skip54
+\bibitemsep=\skip55
+\bibnamesep=\skip56
+\bibinitsep=\skip57
+\bibparsep=\skip58
+\bibhang=\skip59
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language2
+\c@mincomprange=\count327
+\c@maxcomprange=\count328
+\c@mincompwidth=\count329
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2024/03/21 v3.20 biblatex datamodel (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authoryear.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count330
+\c@savedafterword=\count331
+\c@annotator=\count332
+\c@savedannotator=\count333
+\c@author=\count334
+\c@savedauthor=\count335
+\c@bookauthor=\count336
+\c@savedbookauthor=\count337
+\c@commentator=\count338
+\c@savedcommentator=\count339
+\c@editor=\count340
+\c@savededitor=\count341
+\c@editora=\count342
+\c@savededitora=\count343
+\c@editorb=\count344
+\c@savededitorb=\count345
+\c@editorc=\count346
+\c@savededitorc=\count347
+\c@foreword=\count348
+\c@savedforeword=\count349
+\c@holder=\count350
+\c@savedholder=\count351
+\c@introduction=\count352
+\c@savedintroduction=\count353
+\c@namea=\count354
+\c@savednamea=\count355
+\c@nameb=\count356
+\c@savednameb=\count357
+\c@namec=\count358
+\c@savednamec=\count359
+\c@translator=\count360
+\c@savedtranslator=\count361
+\c@shortauthor=\count362
+\c@savedshortauthor=\count363
+\c@shorteditor=\count364
+\c@savedshorteditor=\count365
+\c@labelname=\count366
+\c@savedlabelname=\count367
+\c@institution=\count368
+\c@savedinstitution=\count369
+\c@lista=\count370
+\c@savedlista=\count371
+\c@listb=\count372
+\c@savedlistb=\count373
+\c@listc=\count374
+\c@savedlistc=\count375
+\c@listd=\count376
+\c@savedlistd=\count377
+\c@liste=\count378
+\c@savedliste=\count379
+\c@listf=\count380
+\c@savedlistf=\count381
+\c@location=\count382
+\c@savedlocation=\count383
+\c@organization=\count384
+\c@savedorganization=\count385
+\c@origlocation=\count386
+\c@savedoriglocation=\count387
+\c@origpublisher=\count388
+\c@savedorigpublisher=\count389
+\c@publisher=\count390
+\c@savedpublisher=\count391
+\c@language=\count392
+\c@savedlanguage=\count393
+\c@origlanguage=\count394
+\c@savedoriglanguage=\count395
+\c@pageref=\count396
+\c@savedpageref=\count397
+\shorthandwidth=\skip60
+\shortjournalwidth=\skip61
+\shortserieswidth=\skip62
+\shorttitlewidth=\skip63
+\shortauthorwidth=\skip64
+\shorteditorwidth=\skip65
+\locallabelnumberwidth=\skip66
+\locallabelalphawidth=\skip67
+\localshorthandwidth=\skip68
+\localshortjournalwidth=\skip69
+\localshortserieswidth=\skip70
+\localshorttitlewidth=\skip71
+\localshortauthorwidth=\skip72
+\localshorteditorwidth=\skip73
+Package biblatex Info: Trying to load enhanced support for Unicode engines...
+Package biblatex Info: ... file 'blx-unicode.def' found.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/blx-unicode.de
+f)
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2024/03/21 v3.20 biblatex compatibility (PK/MW)
+\c@textcitecount=\count398
+\c@textcitetotal=\count399
+\c@textcitemaxnames=\count400
+\c@biburlbigbreakpenalty=\count401
+\c@biburlbreakpenalty=\count402
+\c@biburlnumpenalty=\count403
+\c@biburlucpenalty=\count404
+\c@biburllcpenalty=\count405
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count406
+)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/bbx/authoryear
+.bbx
+File: authoryear.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/bbx/standard.b
+bx
+File: standard.bbx 2024/03/21 v3.20 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count407
+\c@bbx:relatedtotal=\count408
+))
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/cbx/authoryear
+.cbx
+File: authoryear.cbx 2024/03/21 v3.20 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: LuaTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-05-27 L3 programming layer (loader) 
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-lua
+tex.def
+File: l3backend-luatex.def 2024-05-08 L3 backend support: PDF output (LuaTeX)
+\l__color_backend_stack_int=\count409
+Inserting `l3color' in `luaotfload.parse_color'.
+\l__pdf_internal_box=\box52
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2024-05-27 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/blx-case-expl3
+.sty
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xpars
+e.sty
+Package: xparse 2024-05-08 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
+))
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 274.
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/lm/lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count410
+\Gm@cntv=\count411
+\c@Gm@tempcnt=\count412
+\Gm@bindingoffset=\dimen160
+\Gm@wd@mp=\dimen161
+\Gm@odd@mp=\dimen162
+\Gm@even@mp=\dimen163
+\Gm@layoutwidth=\dimen164
+\Gm@layoutheight=\dimen165
+\Gm@layouthoffset=\dimen166
+\Gm@layoutvoffset=\dimen167
+\Gm@dimlist=\toks22
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg)) (C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip74
+\aftertitleunit=\skip75
+\ttl@plus=\dimen168
+\ttl@minus=\dimen169
+\ttl@toksa=\toks23
+\titlewidth=\dimen170
+\titlewidthlast=\dimen171
+\titlewidthfirst=\dimen172
+) (C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen173
+\WF@size=\dimen174
+\c@WF@wrappedlines=\count413
+\WF@box=\box54
+\WF@everypar=\toks24
+Package: wrapfig 2003/01/31  v 3.6
+)
+\@quotelevel=\count414
+\@quotereset=\count415
+
+(C:/Users/simom/Downloads/para/build/Paris2024.aux
+(C:/Users/simom/Downloads/para/build/Chapters/1-Introduction.aux)
+(C:/Users/simom/Downloads/para/build/Chapters/2-SportsAndCategories.aux
+
+LaTeX Warning: Label `fig:my_image' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_image' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_image' multiply defined.
+
+
+LaTeX Warning: Label `fig:my_image' multiply defined.
+
+)
+(C:/Users/simom/Downloads/para/build/Chapters/3-The2024ParalympicGamesinParis.a
+ux)
+(C:/Users/simom/Downloads/para/build/Chapters/4-BeyondTheGamesTheParalympicLega
+cy.aux) (C:/Users/simom/Downloads/para/build/Chapters/5-Acknowledgment.aux)
+(C:/Users/simom/Downloads/para/build/Chapters/6-Author.aux))
+\openout1 = Paris2024.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
+0.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 50.
+LaTeX Font Info:    ... okay on input line 50.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count416
+\scratchdimen=\dimen175
+\scratchbox=\box55
+\nofMPsegments=\count417
+\nofMParguments=\count418
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count419
+\MPscratchDim=\dimen176
+\MPnumerator=\count420
+\makeMPintoPDFobject=\count421
+\everyMPtoPDFconversion=\toks26
+)
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring OFF on input line 50.
+ (C:/Users/simom/Downloads/para/build/Paris2024.out)
+(C:/Users/simom/Downloads/para/build/Paris2024.out)
+\@outlinefile=\write4
+
+\openout4 = Paris2024.out
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/lbx/english.lb
+x
+File: english.lbx 2024/03/21 v3.20 biblatex localization (PK/MW)
+)
+Package biblatex Info: LuaTeX detected.
+(biblatex)             Assuming input encoding 'utf8'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+
+\openout3 = Paris2024.bcf
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Paris2024.bbl' found.
+ (C:/Users/simom/Downloads/para/build/Paris2024.bbl)
+Package biblatex Info: Reference section=0 on input line 50.
+Package biblatex Info: Reference segment=0 on input line 50.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-31.8738pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<Images/logo.png, id=234, 262.9825pt x 193.72375pt>
+File: Images/logo.png Graphic file (type png)
+<use Images/logo.png>
+Package luatex.def Info: Images/logo.png  used on input line 67.
+(luatex.def)             Requested size: 142.26378pt x 104.80139pt.
+
+
+[1
+
+
+
+{C:/Users/simom/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./Images/logo.
+png>] (./Chapters/0-Copyright.tex)
+
+
+warning  (pdf backend): ignoring duplicate destination with the name 'page.i'
+[1] (C:/Users/simom/Downloads/para/build/Paris2024.toc
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
+.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
+.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+2.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+2.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 2.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+
+(C:/Users/simom/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+[2
+
+])
+\tf@toc=\write5
+
+\openout5 = Paris2024.toc
+
+
+[3]
+\openout2 = Chapters/1-Introduction.aux
+ (./Chapters/1-Introduction.tex
+Chapter 1.
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 16.
+
+
+
+[1
+
+
+
+]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 26.
+
+)
+
+[2]
+\openout2 = Chapters/2-SportsAndCategories.aux
+ (./Chapters/2-SportsAndCategories.tex
+Chapter 2.
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+(./Sports/Archery.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 1.
+
+
+
+[3
+
+
+
+
+]
+<Images/para_archery.jpg, id=337, 903.375pt x 602.25pt>
+File: Images/para_archery.jpg Graphic file (type jpg)
+<use Images/para_archery.jpg>
+Package luatex.def Info: Images/para_archery.jpg  used on input line 14.
+(luatex.def)             Requested size: 362.37569pt x 241.58495pt.
+) (./Sports/Athletics.tex
+
+[4<./Images/para_archery.jpg>]
+Overfull \hbox (1.11229pt too wide) in paragraph at lines 9--10
+[]\TU/lmr/m/n/12 Par-a-lympic ath-let-ics demon-strates the ex-traor-di-nary fea
+ts that can be achieved
+ []
+
+) (./Sports/Badminton.tex
+
+[5]) (./Sports/Boccia.tex
+<Images/para_bocce.jpg, id=352, 803.0pt x 602.25pt>
+File: Images/para_bocce.jpg Graphic file (type jpg)
+<use Images/para_bocce.jpg>
+Package luatex.def Info: Images/para_bocce.jpg  used on input line 21.
+(luatex.def)             Requested size: 362.37569pt x 271.7911pt.
+
+
+[6]) (./Sports/Canoe.tex
+
+[7<./Images/para_bocce.jpg>]) (./Sports/Cycling.tex) (./Sports/Equestrian.tex
+
+[8]) (./Sports/Football_5.tex
+
+[9]) (./Sports/Goalball.tex
+<Images/goalball.JPG, id=381, 903.375pt x 591.71063pt>
+File: Images/goalball.JPG Graphic file (type jpg)
+<use Images/goalball.JPG>
+Package luatex.def Info: Images/goalball.JPG  used on input line 22.
+(luatex.def)             Requested size: 362.37569pt x 237.35721pt.
+) (./Sports/Judo.tex
+
+[10]
+
+[11<./Images/goalball.JPG>]) (./Sports/Para_powerlifting.tex)
+(./Sports/Rowing.tex
+
+[12]) (./Sports/Shooting.tex
+
+[13]) (./Sports/Sitting_volley.tex
+
+[14]) (./Sports/Swimming.tex) (./Sports/Table_tennis.tex
+<Images/para_tabletennis.jpg, id=415, 903.375pt x 602.25pt>
+File: Images/para_tabletennis.jpg Graphic file (type jpg)
+<use Images/para_tabletennis.jpg>
+Package luatex.def Info: Images/para_tabletennis.jpg  used on input line 7.
+(luatex.def)             Requested size: 362.37569pt x 241.58495pt.
+
+
+[15]) (./Sports/Taekwondo.tex
+
+[16<./Images/para_tabletennis.jpg>]) (./Sports/Triathlon.tex
+
+[17]
+Overfull \hbox (0.39233pt too wide) in paragraph at lines 21--22
+[]\TU/lmr/m/n/12 Par-a-lympic triathlon fea-tures a clas-si-fi-ca-tion sys-tem 
+that groups ath-letes based
+ []
+
+) (./Sports/Weelchair_basketball.tex
+
+[18]) (./Sports/Weelchair_fencing.tex
+<Images/weelchair_fencing.jpg, id=444, 903.375pt x 601.4972pt>
+File: Images/weelchair_fencing.jpg Graphic file (type jpg)
+<use Images/weelchair_fencing.jpg>
+Package luatex.def Info: Images/weelchair_fencing.jpg  used on input line 33.
+(luatex.def)             Requested size: 362.37569pt x 241.28297pt.
+) (./Sports/Weelchair_rugby.tex
+
+[19]
+
+[20<./Images/weelchair_fencing.jpg>]) (./Sports/Weelchair_tennis.tex))
+
+[21]
+\openout2 = Chapters/3-The2024ParalympicGamesinParis.aux
+ (./Chapters/3-The2024ParalympicGamesinParis.tex
+Chapter 3.
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 14.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[22
+
+
+
+
+]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 60.
+
+<Images/Venues.jpg, id=469, 602.25pt x 338.76563pt>
+File: Images/Venues.jpg Graphic file (type jpg)
+<use Images/Venues.jpg>
+Package luatex.def Info: Images/Venues.jpg  used on input line 66.
+(luatex.def)             Requested size: 452.9679pt x 254.80243pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+[23]
+Overfull \hbox (2.381pt too wide) in paragraph at lines 84--85
+[]\TU/lmr/bx/n/12 Back-ground and Achieve-ments: \TU/lmr/m/n/12 Markus Rehm, kno
+wn as ”Blade Jumper,”
+ []
+
+
+
+[24<./Images/Venues.jpg>]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 92.
+
+)
+
+[25]
+\openout2 = Chapters/4-BeyondTheGamesTheParalympicLegacy.aux
+ (./Chapters/4-BeyondTheGamesTheParalympicLegacy.tex
+Chapter 4.
+
+Overfull \hbox (1.41833pt too wide) in paragraph at lines 3--3
+|\TU/lmr/bx/n/17.28 Chang-ing Per-cep-tions: The Im-pact of the Par-a-lympics| 
+
+ []
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 3.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 14.
+
+
+
+[26
+
+
+
+
+]
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 24.
+
+)
+
+[27]
+\openout2 = Chapters/5-Acknowledgment.aux
+ (./Chapters/5-Acknowledgment.tex)
+
+[28
+
+
+
+
+
+]
+\openout2 = Chapters/6-Author.aux
+ (./Chapters/6-Author.tex)
+
+[29
+
+
+
+
+]
+
+[30
+
+
+
+] (C:/Users/simom/Downloads/para/build/Paris2024.aux
+(C:/Users/simom/Downloads/para/build/Chapters/1-Introduction.aux)
+(C:/Users/simom/Downloads/para/build/Chapters/2-SportsAndCategories.aux)
+(C:/Users/simom/Downloads/para/build/Chapters/3-The2024ParalympicGamesinParis.a
+ux)
+(C:/Users/simom/Downloads/para/build/Chapters/4-BeyondTheGamesTheParalympicLega
+cy.aux) (C:/Users/simom/Downloads/para/build/Chapters/5-Acknowledgment.aux)
+(C:/Users/simom/Downloads/para/build/Chapters/6-Author.aux))
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-05-27>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `Paris2024.out' has not changed.
+(rerunfilecheck)             Checksum: 6215B163F07A9932B3B317FDA3E39C7D;12958.
+Package logreq Info: Writing requests to 'Paris2024.run.xml'.
+
+\openout1 = Paris2024.run.xml
+)
+
+Here is how much of LuaTeX's memory you used:
+ 18972 strings out of 475915
+ 125121,1977958 words of node,token memory allocated
+ 491 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 5 attribute, 63 glue_spec,
+ 5 attribute_list, 1 write, 1 pdf_action nodes
+   avail lists: 1:2,2:1926,3:391,4:151,5:568,6:124,7:8072,8:43,9:1273,10:15,11:5
+58
+ 40872 multiletter control sequences out of 65536+600000
+ 42 fonts using 3220959 bytes
+ 72i,10n,78p,1021b,996s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/users/simom/appdata/local/programs/miktex/fonts/opentype/public/lm/lmmono12-
+regular.otf><c:/users/simom/appdata/local/programs/miktex/fonts/opentype/public/
+lm/lmromancaps10-regular.otf><c:/users/simom/appdata/local/programs/miktex/fonts
+/opentype/public/lm/lmroman12-italic.otf><c:/users/simom/appdata/local/programs/
+miktex/fonts/opentype/public/lm/lmroman12-regular.otf><c:/users/simom/appdata/lo
+cal/programs/miktex/fonts/opentype/public/lm/lmroman12-bold.otf><C:/Users/simom/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Paris2024.pdf (34 pages, 1187076 bytes).
+
+PDF statistics: 562 PDF objects out of 1000 (max. 8388607)
+ 134 named destinations out of 1000 (max. 131072)
+ 505 words of extra memory for PDF output out of 10000 (max. 100000000)
+
