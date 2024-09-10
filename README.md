@@ -31,9 +31,6 @@ This repository contains the LaTeX source code and resources for the ebook "Pari
 
     *   This will generate `Paris2024.pdf` in the build directory.
 
-    make epub
-    ```
-
 ## Notes
 
 *   Make sure you have all the necessary LaTeX packages installed.
