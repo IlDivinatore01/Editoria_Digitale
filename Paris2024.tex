@@ -1,0 +1,94 @@
+\documentclass[12pt, oneside]{book}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{amssymb}
+\usepackage[backend=biber,style=authoryear]{biblatex}
+\usepackage{xcolor}
+\usepackage{lmodern} 
+\usepackage{textcomp} 
+\usepackage{amsfonts}  
+\usepackage{geometry} 
+\usepackage{titlesec} 
+\usepackage{wrapfig} %photos
+
+% Remove numbering from sections
+\setcounter{secnumdepth}{0} 
+
+\titleformat{\subsection}
+  {\normalfont\Large\itshape} % Italicized and larger font
+  {\thesection.\thesubsection} 
+  {0.5em} 
+  {}
+
+\geometry{ 
+  a4paper, 
+  left=1in,   % Increased left margin
+  right=1in,  % Increased right margin
+  top=1in, 
+  bottom=1in 
+}
+
+\addbibresource{Bibliography.bib}
+
+% Define Paralympic colors
+\definecolor{paralympicRed}{RGB}{208, 12, 48}
+\definecolor{paralympicBlue}{RGB}{0, 163, 224}
+\definecolor{paralympicGreen}{RGB}{0, 148, 68}
+
+% Title page information
+\title{Paris 2024: \\ 
+       The Paralympic Games Explained}
+\author{Simone Miglio}
+\date{}
+
+\setlength\bibitemsep{1.5\baselineskip} % Adjust 1.5 as needed
+
+\begin{document}
+
+\frontmatter 
+\pagestyle{plain} % Set page style to plain for the front matter
+
+\begin{titlepage} 
+  \begin{center}
+    \vspace*{3cm}
+    \hrule height 1pt \vspace{0.4cm}
+
+    {\fontsize{20}{28}\selectfont 
+      \textcolor{paralympicRed}{\textbf{PARIS}} \textcolor{paralympicBlue}{\textbf{2024:}} \\ [0.3cm] % Added line break and vertical space
+      \textcolor{paralympicGreen}{\textbf{THE PARALYMPIC GAMES EXPLAINED}}
+    }
+
+    \vspace{0.4cm}\hrule height 1pt \vspace{2cm} 
+
+    \includegraphics[width=5cm]{Images/logo.png} \vspace{0.5cm} \\
+    Simone Miglio
+    \vspace{2cm}
+  \end{center}
+\end{titlepage}
+
+\newpage
+\input{Chapters/0-Copyright} 
+
+\tableofcontents
+
+\mainmatter 
+
+\include{Chapters/1-Introduction}
+\include{Chapters/2-SportsAndCategories}
+\include{Chapters/3-The2024ParalympicGamesinParis}
+\include{Chapters/4-BeyondTheGamesTheParalympicLegacy}
+
+\backmatter % Start the backmatter section
+
+\include{Chapters/5-Acknowledgment} 
+\include{Chapters/6-Author} 
+
+\nocite{*} 
+
+\printbibliography[heading=bibintoc] % Add a title and include in TOC
+
+\end{document}
